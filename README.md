@@ -1,7 +1,7 @@
 # Pathplanning-V-REP
 Warehouse with 2 mobile robots in V-REP. LUA.
 
-In order to run simulation you need to creat .txt file with names of dummies you want each robot to move to and and it with "Goal1, eg: 
+In order to run simulation you need to create .txt file with names of dummies you want each robot to move to and end it with "Goal1", eg: 
 "StorageA1
 StorageB3
 Goal1"
